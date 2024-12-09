@@ -13,7 +13,7 @@ export const Testimonials = () => {
         <div className="lg:col-span-2 xl:col-auto">
           <div className="flex flex-col justify-between w-full h-full bg-gray-100 px-14 rounded-2xl py-14 dark:bg-trueGray-800">
             <p className="text-2xl leading-normal ">
-            "I am passionate about <Mark>leveraging data</Mark> and innovation to create opportunities for communities in the East Bay."
+            I am passionate about <Mark>leveraging data</Mark> and innovation to create opportunities for communities in the East Bay.
             </p>
 
             <Avatar
@@ -26,7 +26,7 @@ export const Testimonials = () => {
         <div className="">
           <div className="flex flex-col justify-between w-full h-full bg-gray-100 px-14 rounded-2xl py-14 dark:bg-trueGray-800">
             <p className="text-2xl leading-normal ">
-            "I am dedicated to <Mark>breaking cycles</Mark> of poverty by creating pathways to the innovation economy through hands-on education and community empowerment."
+            I am dedicated to <Mark>breaking cycles</Mark> of poverty by creating pathways to the innovation economy through hands-on education and community empowerment.
             </p>
 
             <Avatar
@@ -39,7 +39,7 @@ export const Testimonials = () => {
         <div className="">
           <div className="flex flex-col justify-between w-full h-full bg-gray-100 px-14 rounded-2xl py-14 dark:bg-trueGray-800">
             <p className="text-2xl leading-normal ">
-            "I am passionate about bridging the <Mark>innovation</Mark> gap and bringing opportunities to underserved communities in the East Bay."
+            I am passionate about bridging the <Mark>innovation</Mark> gap and bringing opportunities to underserved communities in the East Bay.
 
 
 
