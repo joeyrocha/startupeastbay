@@ -5,30 +5,33 @@ import {
   DevicePhoneMobileIcon,
   AdjustmentsHorizontalIcon,
   SunIcon,
+  LightBulbIcon,
+  ScaleIcon,
+  UserGroupIcon,
 } from "@heroicons/react/24/solid";
 
-import benefitOneImg from "../../public/img/benefit-one.png";
+import benefitOneImg from "../../public/img/suebhero.png";
 import benefitTwoImg from "../../public/img/benefit-two.png";
 
 const benefitOne = {
-  title: "Highlight your benefits",
+  title: "OUR VALUES & OUR PILLARS",
   desc: "You can use this space to highlight your first benefit or a feature of your product. It can also contain an image or Illustration like in the example along with some bullet points.",
   image: benefitOneImg,
   bullets: [
     {
-      title: "Understand your customers",
-      desc: "Then explain the first point breifly in one or two lines.",
-      icon: <FaceSmileIcon />,
+      title: "Integrity ",
+      desc: "Building trust and empowering individuals within the organization and the community through ethical and transparent practices",
+      icon: <ScaleIcon />,
     },
     {
-      title: "Improve acquisition",
-      desc: "Here you can add the next benefit point.",
-      icon: <ChartBarSquareIcon />,
+      title: "Innovation",
+      desc: "Fostering a culture of empowerment where everyone feels encouraged to contribute their ideas, experiment, and take risks to drive innovation.",
+      icon: <LightBulbIcon />,
     },
     {
-      title: "Drive customer retention",
-      desc: "This will be your last bullet point in this section.",
-      icon: <CursorArrowRaysIcon />,
+      title: "Effectiveness",
+      desc: "Empowering teams to achieve maximum output and impact by providing them with the resources, tools, and support they need to succeed",
+      icon: <UserGroupIcon />,
     },
   ],
 };
