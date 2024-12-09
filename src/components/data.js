@@ -10,7 +10,7 @@ import {
   UserGroupIcon,
 } from "@heroicons/react/24/solid";
 
-import benefitOneImg from "../../public/img/suebhero.png";
+import benefitOneImg from "../../public/img/SUEBLogo.png";
 import benefitTwoImg from "../../public/img/benefit-two.png";
 
 const benefitOne = {
