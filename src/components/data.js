@@ -15,7 +15,7 @@ import benefitTwoImg from "../../public/img/benefit-two.png";
 
 const benefitOne = {
   title: "OUR VALUES & OUR PILLARS",
-  desc: "You can use this space to highlight your first benefit or a feature of your product. It can also contain an image or Illustration like in the example along with some bullet points.",
+  desc: "At the heart of everything we do are three core principles that define who we are and guide our efforts:",
   image: benefitOneImg,
   bullets: [
     {
